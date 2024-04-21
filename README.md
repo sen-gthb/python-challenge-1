@@ -1,3 +1,2 @@
 # python-challenge-1
-Python Challenge 1
-This is the 2nd assignment for the AI class. This formats menu items, asks people what they want to order, and gives them a total price. I completed this with help from an EdX tutor and a student study group. 
+This challenge utilizes Python coding to practice creating a user product. In this case, the product is a food truck menu which formats menu items, asks people what they want to order, tallies food and prices, and provides customers with a total price. Completed independently as well as in collaboration in student study groups.  
